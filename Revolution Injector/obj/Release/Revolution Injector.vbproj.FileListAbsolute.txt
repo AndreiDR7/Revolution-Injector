@@ -1,0 +1,12 @@
+C:\Users\Bogdan\Desktop\lucruri inutile\Revolution Injector vb\Revolution Injector\Revolution Injector\obj\Release\Revolution Injector.vbprojResolveAssemblyReference.cache
+C:\Users\Bogdan\Desktop\lucruri inutile\Revolution Injector vb\Revolution Injector\Revolution Injector\obj\Release\Revolution_Injector.Form1.resources
+C:\Users\Bogdan\Desktop\lucruri inutile\Revolution Injector vb\Revolution Injector\Revolution Injector\obj\Release\Revolution Injector.vbproj.GenerateResource.Cache
+C:\Users\Bogdan\Desktop\lucruri inutile\Revolution Injector vb\Revolution Injector\Revolution Injector\obj\Release\Revolution_Injector.Resources.resources
+C:\Users\Bogdan\Desktop\lucruri inutile\Revolution Injector vb\Revolution Injector\Revolution Injector\obj\Release\Revolution Injector.vbproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\lucruri inutile\Revolution Injector vb\Revolution Injector\Revolution Injector\bin\Release\Revolution Injector.exe.config
+C:\Users\Bogdan\Desktop\lucruri inutile\Revolution Injector vb\Revolution Injector\Revolution Injector\bin\Release\Revolution Injector.exe
+C:\Users\Bogdan\Desktop\lucruri inutile\Revolution Injector vb\Revolution Injector\Revolution Injector\bin\Release\Revolution Injector.pdb
+C:\Users\Bogdan\Desktop\lucruri inutile\Revolution Injector vb\Revolution Injector\Revolution Injector\bin\Release\Revolution Injector.xml
+C:\Users\Bogdan\Desktop\lucruri inutile\Revolution Injector vb\Revolution Injector\Revolution Injector\obj\Release\Revolution Injector.exe
+C:\Users\Bogdan\Desktop\lucruri inutile\Revolution Injector vb\Revolution Injector\Revolution Injector\obj\Release\Revolution Injector.xml
+C:\Users\Bogdan\Desktop\lucruri inutile\Revolution Injector vb\Revolution Injector\Revolution Injector\obj\Release\Revolution Injector.pdb
